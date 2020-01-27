@@ -1,0 +1,7 @@
+<!DOCTYPE RCC>
+<RCC>
+    <qresource>
+        <file>img/logo.jpg</file>
+        <file>img/display.jpg</file>
+    </qresource>
+</RCC>
