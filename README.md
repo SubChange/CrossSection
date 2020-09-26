@@ -16,7 +16,7 @@ Only to input the related parameters, you can get the Geometric properties of T 
 
 Result is as the follow:
 
-![](pic/001.png)
+![](https://raw.githubusercontent.com/SubChange/CrossSection/master/pic/001.png)
 
 ## Appendix:
 
