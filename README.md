@@ -4,7 +4,7 @@ Only to input the related parameters, you can get the Geometric properties of T 
 
 * ## T section
 
-  ![](https://github.com/SubChange/CrossSection/SectinonFeatureCalcu/img/SubChangeimg.jpg)
+  ![](https://github.com/SubChange/CrossSection/raw/master/CrossSection/SectinonFeatureCalcu/img/SubChangeimg.jpg)
 
   Result is as the follow:
 
